@@ -1,22 +1,27 @@
-# ProjektStaż - API 
+# ProjektStaż - API
 
-## Będzie to prosta aplikacja, która sortuje za pomoca załaczonego API Przedsiębiorstwa oraz ich dochody. 
+## Będzie to prosta aplikacja na siłownię
 
 ## To Do
-* Utworzenie struktury projektu
-* Załadownie wymaganych bibliotek
 
-## Technologie 
-* HTML5
-* SASS
-* ES6
-* React
+- Utworzenie struktury projektu
+- Załadownie wymaganych bibliotek
 
-## Instalacja 
+## Technologie
 
-* Zakładamy że npm jest zainstalowane. Do instalacji wystarczy pobrać repozytorium i wykonać komendę
+- HTML5
+- SASS
+- ES6
+- React
+
+## Instalacja
+
+- Zakładamy że npm jest zainstalowane. Do instalacji wystarczy pobrać repozytorium i wykonać komendę
+
 ```
 npm install
 ```
+
 ## Działąjace funkcjonalności
-* jeszcze brak
+
+- jeszcze brak
